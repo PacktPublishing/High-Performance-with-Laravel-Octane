@@ -168,7 +168,7 @@ Route::get('/table-get-all', function () {
     return $rows;
 });
 
-Route::get('/stats', function () {
+Route::get('/metrics', function () {
     $server = App::make(Swoole\Http\Server::class);
 
     return $server->stats();
