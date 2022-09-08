@@ -37,7 +37,6 @@ class AppServiceProvider extends ServiceProvider
                 $number = rand(1, 1000);
                 Cache::store('octane')->put('last-random-number', $number);
                 Log::info("New number in cache: ${number}", ['timestamp' => now()]);
-
             }
         )
         ->seconds(10)
@@ -48,7 +47,6 @@ class AppServiceProvider extends ServiceProvider
                 $number = memory_get_peak_usage();
                 Cache::store('octane')->put('last-memory-peak', $number);
                 Log::info("Memory peak: ${number}", ['timestamp' => now()]);
-
             }
         )
         ->seconds(10)
