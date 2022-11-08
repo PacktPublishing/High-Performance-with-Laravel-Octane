@@ -164,7 +164,7 @@ return [
 
     'tables' => [
         'example:1000' => [
-            'name' => 'string:1000',
+            'name' => 'string:500',
             'votes' => 'int',
         ],
         'my-table:100' => [
