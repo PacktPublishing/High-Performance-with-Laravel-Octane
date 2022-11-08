@@ -26,6 +26,12 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIndex('event_description_fulltext_index');
+        Schema::table('events', function (Blueprint $table) {
+            try {
+                $table->dropIndex('event_description_fulltext_index');
+            } catch (Illuminate\Database\QueryException $e) {
+            }
+        });
+
     }
 };

@@ -14,7 +14,7 @@ return new class extends Migration
     public function up()
     {
         Schema::table('events', function (Blueprint $table) {
-            $table->index('type', 'event_type_index');
+            //$table->index('type', 'event_type_index');
             $table->index('description', 'event_description_index');
             $table->index('date', 'event_date_index');
         });
@@ -29,7 +29,7 @@ return new class extends Migration
     {
         Schema::table('events', function (Blueprint $table) {
             try {
-                $table->dropIndex('event_type_index');
+                //$table->dropIndex('event_type_index');
 
                 $table->dropIndex('event_date_index');
             } catch (Illuminate\Database\QueryException $e) {

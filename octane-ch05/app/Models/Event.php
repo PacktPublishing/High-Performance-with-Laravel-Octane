@@ -20,8 +20,8 @@ class Event extends Model
     public function scopeOfType($query, $type)
     {
         return $query->where('type', $type)
-            ->where('description', 'LIKE', '%something%')
-            //->whereFullText('description', 'something')
+            //->where('description', 'LIKE', '%something%')
+            ->whereFullText('description', 'something')
             ->orderBy('date')->limit(5);
     }
 }
