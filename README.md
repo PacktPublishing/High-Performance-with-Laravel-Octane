@@ -33,7 +33,7 @@ The code will look like the following:
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+The book is for existing Laravel developers who want to improve their software architecture, from a basic or standard architecture to a more scalable and performant one. Basic knowledge of Laravel fundamentals is required.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
 
