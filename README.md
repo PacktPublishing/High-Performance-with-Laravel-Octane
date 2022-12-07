@@ -1,8 +1,8 @@
-# High Performance Laravel Development with Octane
+# High Performance with Laravel Octane
 
-<a href="https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404"><img src="https://static.packt-cdn.com/products/9781801819404/cover/smaller" alt="High Performance Laravel Development with Octane" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404"><img src="https://static.packt-cdn.com/products/9781801819404/cover/smaller" alt="High Performance with Laravel Octane" height="256px" align="right"></a>
 
-This is the code repository for [High Performance Laravel Development with Octane](https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404), published by Packt.
+This is the code repository for [High Performance with Laravel Octane](https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404), published by Packt.
 
 **Learn to fine-tune and optimize PHP and Laravel apps using Octane and asynchronous approach**
 
