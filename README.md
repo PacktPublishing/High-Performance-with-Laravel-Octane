@@ -9,7 +9,7 @@ This is the code repository for [High Performance Laravel Development with Octan
 ## What is this book about?
 Laravel Octane is a very powerful component in the Laravel ecosystem that can help you achieve remarkable app performance. With Laravel Octane, you will find tools (queues, cache, tables) that facilitate a new asynchronous approach to improving application performance.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Learn the dynamics of the request life cycle in a classic Laravel application
 * Explore the possibilities with OpenSwoole and Roadrunner and choose the best solution for your application
 * Analyze the potential bottlenecks of a classic web application
