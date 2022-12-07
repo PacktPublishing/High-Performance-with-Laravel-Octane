@@ -1,8 +1,8 @@
 # High Performance Laravel Development with Octane
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="High Performance Laravel Development with Octane" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404"><img src="https://static.packt-cdn.com/products/9781801819404/cover/smaller" alt="High Performance Laravel Development with Octane" height="256px" align="right"></a>
 
-This is the code repository for [High Performance Laravel Development with Octane](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [High Performance Laravel Development with Octane](https://www.packtpub.com/product/high-performance-laravel-development-with-octane/9781801819404), published by Packt.
 
 **Learn to fine-tune and optimize PHP and Laravel apps using Octane and asynchronous approach**
 
@@ -48,9 +48,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/ZTNyn).
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Clean Code in PHP [[Packt]](https://www.packtpub.com/product/clean-code-in-php/9781804613870) [[Amazon]](https://www.amazon.com/dp/1804613878)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Test-Driven Development with PHP 8 [[Packt]](https://www.packtpub.com/product/test-driven-development-with-php-8/9781803230757) [[Amazon]](https://www.amazon.com/dp/1803230754)
 
 ## Get to Know the Author
 **Roberto Butti**
